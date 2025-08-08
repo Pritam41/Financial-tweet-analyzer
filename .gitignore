@@ -1,0 +1,21 @@
+# Virtual Environment
+/venv
+.venv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Data files - uncomment if you don't want to upload your collected data
+# data/
+
+# Local configuration (if you create any)
+*.local
+
+# Error logs and screenshots
+*.log
+*.png
